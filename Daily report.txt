@@ -5,8 +5,8 @@ Issues: git push lỗi
 
 Ngày 15/10/2023
 Đã làm: 
-Đang làm: 
-Issues: 
+Đang làm: Section 18 
+Issues: tìm phím tắt căn lề nhiều dòng, git push lỗi (đã tự fix)
 
 Ngày 16/10/2023
 Đã làm:

@@ -4,11 +4,16 @@ Ngày 14/10/2023
 Issues: git push lỗi
 
 Ngày 15/10/2023
-Đã làm: 
+Đã làm: git push lỗi (đã tự fix)
 Đang làm: Section 18 
-Issues: tìm phím tắt căn lề nhiều dòng, git push lỗi (đã tự fix)
+Issues: tìm phím tắt căn lề nhiều dòng
 
-Ngày 16/10/2023
-Đã làm:
+Ngày 16+17/10/2023
+Đã làm: section 23
 Đang làm:
-Issues:
+Issues: chrome driver không hoạt động 
+
+Ngày 18/10/2023
+Đã làm: 
+Đang làm: Section 27
+Issues: 

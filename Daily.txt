@@ -39,5 +39,19 @@ Ngày 23/10/2023
 Issues: Dừng do không hiểu tác giả đang làm gì, khởi động phần code dự án
 Reason for yesterday : cảm thấy không liên quan đến dự án, có thể xem lại sau
 
- 
+?????
+Không hiểu? Tại sao không hỏi?
+1. Vẫn chưa trả lời câu hỏi của bố tại sao bỏ qua mấy section 37, 38, 39?
+2. Dừng do không hiểu tác giả đang làm gì, khởi động phần code dự án
+    Về cơ bản Scrapy là 1 cách khác của Selenium? 
+    Nó có dùng thư viện của Selenium không hay dùng thư viện khác?
+3. cảm thấy không liên quan đến dự án, có thể xem lại sau
+    con hiểu dự án của con là làm gì?
+    mục đích của con học video này để làm gì?
+    tại sao không liên quan mà phải bỏ lại sau?
+    Con phải hiểu phần 8 là giới thiệu Scrapy giống như Selenium, những phần sau (9 và 10) sẽ dùng thư viện đó để làm vì thế ở đây mình sẽ phải học để xem dùng thư viện nào hợp lý hơn khi mình áp dụng nó để lấy data từ cafeF
+Summary:
+    Ở đây mục đích của mình là học nên không thể bỏ qua cái gì cả, học được cái gì thêm thì tốt cái đó
+    Học phải hiểu và thao tác theo hướng dẫn để hiểu cách các thư viện hoạt động
+    Nguyên phần 6, project 1 học xong không có code thì con chỉ xem không thôi thì có tác dụng gì? liệu có còn nhớ được hoặc tham khảo lại thì lấy nguồn từ đâu?
 

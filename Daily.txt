@@ -30,5 +30,5 @@ Issues:
 
 Ngày 22/10/2023
 Đã làm: 
-Đang làm: Section 42
+Đang làm: Section 42 (tại sao bỏ qua sections 37, 38, 39?)
 Issues: 
